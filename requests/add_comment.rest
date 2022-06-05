@@ -1,0 +1,6 @@
+POST http://localhost:3003/api/blogs/6259ac3ed7277c44b0ee2525/comments
+Content-Type: application/json
+
+{
+"content": "Brave jumblies against the sea in a sieve", "blogID": "6259ac3ed7277c44b0ee2525"
+}
